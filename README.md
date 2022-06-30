@@ -13,12 +13,15 @@ The following Steps were Used in Data Preparation:
 
 * Reading the Data
 * Checking the Data
-* Validation
-* Completeness
-* Consistency
-* Uniformity
-* Outliers
-* Anomalies
+* Data Validation
+* Checking for Completeness
+* Checking for Consistency
+* Checking for Uniformity
+* Checking for Outliers
+* Checking for Anomalies
+
+Analysis Steps
+
 * Univariate Exploration: Categorical Analysis and Numerical Analysis
 * Bivariate Exploration
 * Multivariate Exploration
